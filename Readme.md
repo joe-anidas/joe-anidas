@@ -47,7 +47,7 @@
 
 ### Leetcode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/joeanidas?theme=dark&font=Karma)
+![LeetCode Stats](https://leetcard.jacoblin.cool/joeanidas?theme=dark&font=system-ui)
 
 
 ---
