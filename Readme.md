@@ -1,6 +1,3 @@
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=joe-anidas.joe-anidas" />
-<br>
 <h1 align="center">I'm Joe Anidas E</h1>
 <h2 align="center">Full Stack Web Developer</h2>
 
@@ -64,7 +61,3 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/joeanidas/)
 
 ---
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=system-ui&size=35&color=FFFFFF&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Thanks for visiting!;💙;" />
-</h1>
