@@ -50,7 +50,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/joeanidas?theme=dark&font=Karma)
 
 
-
+---
 
 ### Connect with Me
 
@@ -59,4 +59,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joe-anidas)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/joeanidas/)
 
----
+
