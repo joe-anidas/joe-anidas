@@ -41,8 +41,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joe-anidas&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
 ![GitHub Streak](https://streak-stats.demolab.com?user=joe-anidas&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff)
 
-
-
 ---
 
 ### Leetcode Stats
